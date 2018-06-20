@@ -1,0 +1,4 @@
+#Tue Jun 19 20:30:33 PDT 2018
+base.0=/Users/tejen/Documents/Repositories/Android/Lab5/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
