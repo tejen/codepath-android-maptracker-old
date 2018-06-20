@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5e487d143475a22df7c8a6734b752426/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/permissionsdispatcher-3.2.0.aar/65ba322cbc8360cedec8d3d9cff115ea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/034470fd8fe4b5cf109423dabe330786/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/79ec3ac9dbc20ebaeeccc127879f6967/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a703f8308be3975f77fb022bdca6d0df/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/4201c21b5f8ba14850313c01f9fb9bd7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/4cfdfd179c38aee7ce5ac4de91a230c8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9cdb581498d5466228fa92ab11f9ad9c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/29fe8932c53b2fcc1e4fa1417ec3db64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f7c0a6dea1719dbb724d7862c9b11e9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/866f22469ffab8db997ab5cb4b9786e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/56102f0e50bb34ba9626499736c3b513/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8492c8b45b53c279605e613892b7e1c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/dfbc5ea3e67d3a56b7e21f7e160f4903/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ead356b770775ea8dae745d2e149d75c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dffede686090a4ac144c035d97ebe9ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/601cb8a80f7c8a2ff1e5504ee9b6a7d8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d86b1b794e781fe097747523fd7f0d67/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/23547d25d9f9e19288265094572bd0a1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/85886a42afb57197fbc7ef69693310fc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:7:5-109
+	android:protectionLevel
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:7:72-107
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:7:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:8:5-111
+	android:protectionLevel
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:8:74-109
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:8:17-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#com.example.mapdemo.permission.MAPS_RECEIVE
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:11:22-80
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:14:22-78
+uses-feature#0x00020000
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:16:5-18:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:18:9-32
+application
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:20:5-44:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/79ec3ac9dbc20ebaeeccc127879f6967/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/79ec3ac9dbc20ebaeeccc127879f6967/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a703f8308be3975f77fb022bdca6d0df/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a703f8308be3975f77fb022bdca6d0df/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/4201c21b5f8ba14850313c01f9fb9bd7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/4201c21b5f8ba14850313c01f9fb9bd7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/4cfdfd179c38aee7ce5ac4de91a230c8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/4cfdfd179c38aee7ce5ac4de91a230c8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9cdb581498d5466228fa92ab11f9ad9c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9cdb581498d5466228fa92ab11f9ad9c/AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.mapdemo.MapDemoActivity
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:26:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:31:27-74
+uses-library#com.google.android.maps
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:35:9-88
+	android:required
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:35:23-46
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:35:47-85
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:37:9-39:59
+	android:value
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:38:13-62
+meta-data#com.google.android.gms.version
+ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:41:9-43:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9cdb581498d5466228fa92ab11f9ad9c/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9cdb581498d5466228fa92ab11f9ad9c/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:43:13-66
+	android:name
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml:42:13-58
+uses-sdk
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5e487d143475a22df7c8a6734b752426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5e487d143475a22df7c8a6734b752426/AndroidManifest.xml:20:5-44
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/permissionsdispatcher-3.2.0.aar/65ba322cbc8360cedec8d3d9cff115ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/permissionsdispatcher-3.2.0.aar/65ba322cbc8360cedec8d3d9cff115ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/034470fd8fe4b5cf109423dabe330786/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/034470fd8fe4b5cf109423dabe330786/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/36b1aadc1f37577d1c7cef05e54feed9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/79ec3ac9dbc20ebaeeccc127879f6967/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/79ec3ac9dbc20ebaeeccc127879f6967/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a703f8308be3975f77fb022bdca6d0df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a703f8308be3975f77fb022bdca6d0df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/4201c21b5f8ba14850313c01f9fb9bd7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/4201c21b5f8ba14850313c01f9fb9bd7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/4cfdfd179c38aee7ce5ac4de91a230c8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/4cfdfd179c38aee7ce5ac4de91a230c8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9cdb581498d5466228fa92ab11f9ad9c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/9cdb581498d5466228fa92ab11f9ad9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/29fe8932c53b2fcc1e4fa1417ec3db64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/29fe8932c53b2fcc1e4fa1417ec3db64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f7c0a6dea1719dbb724d7862c9b11e9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f7c0a6dea1719dbb724d7862c9b11e9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/866f22469ffab8db997ab5cb4b9786e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/866f22469ffab8db997ab5cb4b9786e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/56102f0e50bb34ba9626499736c3b513/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/56102f0e50bb34ba9626499736c3b513/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8492c8b45b53c279605e613892b7e1c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8492c8b45b53c279605e613892b7e1c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/dfbc5ea3e67d3a56b7e21f7e160f4903/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/dfbc5ea3e67d3a56b7e21f7e160f4903/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ead356b770775ea8dae745d2e149d75c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ead356b770775ea8dae745d2e149d75c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dffede686090a4ac144c035d97ebe9ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dffede686090a4ac144c035d97ebe9ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/601cb8a80f7c8a2ff1e5504ee9b6a7d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/601cb8a80f7c8a2ff1e5504ee9b6a7d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d86b1b794e781fe097747523fd7f0d67/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d86b1b794e781fe097747523fd7f0d67/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/23547d25d9f9e19288265094572bd0a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/23547d25d9f9e19288265094572bd0a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/85886a42afb57197fbc7ef69693310fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/tejen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/85886a42afb57197fbc7ef69693310fc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tejen/Documents/Repositories/Android/Lab5/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a703f8308be3975f77fb022bdca6d0df/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a703f8308be3975f77fb022bdca6d0df/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a703f8308be3975f77fb022bdca6d0df/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/tejen/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a703f8308be3975f77fb022bdca6d0df/AndroidManifest.xml:24:13-79
